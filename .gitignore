@@ -1,0 +1,7 @@
+.idea/
+*.iml
+out/
+*.class
+.kotlin
+.DS_Store
+.notebook/
